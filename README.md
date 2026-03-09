@@ -50,7 +50,7 @@ This lab contains multiple common authentication and business-logic vulnerabilit
 Clone or download the project.
 
 ```bash
-git clone https://github.com/yourname/2fa-lab.git
+git clone https://github.com/strylee/vulnerable-2fa-lab.git
 cd 2fa-lab
 ```
 
@@ -353,3 +353,4 @@ Feel free to improve the lab by adding:
 * IDOR vulnerabilities
 
 ---
+
