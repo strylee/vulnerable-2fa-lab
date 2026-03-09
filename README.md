@@ -51,7 +51,7 @@ Clone or download the project.
 
 ```bash
 git clone https://github.com/strylee/vulnerable-2fa-lab.git
-cd 2fa-lab
+cd vulnerable-2fa-lab
 ```
 
 Install dependencies:
@@ -353,4 +353,5 @@ Feel free to improve the lab by adding:
 * IDOR vulnerabilities
 
 ---
+
 
